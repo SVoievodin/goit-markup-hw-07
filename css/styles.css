@@ -137,7 +137,7 @@ li {
 .page-header__bookmarks .page-header__item:not(:last-child) {
   margin-right: 50px;
 }
-.page-header__info .page-header__item:not(:last-child) {
+.page-header__connection .page-header__item:not(:last-child) {
   margin-right: 50px;
 }
 
